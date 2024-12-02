@@ -28,5 +28,5 @@ run npm start
 
 - - Displays the employee list
 
-[^1]: Dockerfile for backend doesn't come up. :pray:
-[^2]: Couln't implement post, edit, delete and search functions :pray:
+* Dockerfile for backend doesn't come up. :pray:
+* Couln't implement post, edit, delete and search functions :pray:

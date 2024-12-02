@@ -2,24 +2,27 @@
 
 ## Backend
 
--node Js
--mongodb
+### node Js
+
+### mongodb
 
 - - Gets employees from mongodb database
 
 ```
-node server.js
+run node server.js
 
 ```
 
 ## Frontend
 
--React Native
--Axios
--BootStrap
+### React Native
+
+### Axios
+
+### BootStrap
 
 ```
-npm start
+run npm start
 
 ```
 
